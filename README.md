@@ -15,3 +15,7 @@
 - [2026-10-24](reports/2026/2026-10-24.md)
 - [2026-10-17](reports/2026/2026-10-17.md)
 - [2026-10-16](reports/2026/2026-10-16.md)
+
+## 改善ログ
+- 指摘と反映: [logs/feedback.md](logs/feedback.md)
+- 実行ごとの記録: [logs/runs/](logs/runs/)
