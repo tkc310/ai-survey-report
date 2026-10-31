@@ -7,6 +7,9 @@
 2. **Gemini 4 Carbon は表に入れない**。AA Intelligence Index v5 で 59 だが、開発者向け API は未公開。複雑なコーディングのフラッグシップは据え置き。
 3. ニュース: Terra、Carbon、Mistral Large 4 のオープンウェイト、Genie 4、TanStack Redact。
 
+## 月次サマリー（新しい順）
+- [2026-10](reports/2026/2026-10-summary.md)
+
 ## 最新号
 - [2026-10-31](reports/2026/2026-10-31.md)
 
