@@ -11,3 +11,7 @@
   - 反映: Claude 限定の列はコストを考えず、作業ごとの性能順で上位3つ（エフォート違いを含む）にする。
 - 指摘3: 改善ループを回せるようにログを管理する。
   - 反映: `logs/runs/YYYY-MM-DD.md` に実行ごとの判断と理由、詰まったところ、次回への改善点を残し、毎回の最初に前回のログとこのファイルを読んで反映する。月次サマリーでもログから改善提案を出す。
+
+## 2026-11-01
+- 指摘: Takashi の指示で、作業別モデル比較に「デザイン」（UI・LP・図解などの見た目の制作）を追加する。根拠は WebDev Arena（https://arena.ai/leaderboard/code/webdev）と Design Arena（https://www.designarena.ai/leaderboard）などの公開リーダーボードとし、順位が分かれるときは併記する。画像生成の品質を比べる公開データがなければその旨を書く。
+  - 反映: agents-playground の `skills/weekly-ai-survey-report/SKILL.md` に反映する。次回（2026-11-07）の週次から適用する。
