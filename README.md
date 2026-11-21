@@ -3,17 +3,18 @@
 作業別のおすすめ AI モデル、pstack の割り当て、1週間の AI ニュースをまとめた週次レポート。
 
 ## 前回からの主な変化
-1. **Design Arena の総合（エージェント複合）の 1位が、GPT-6.1 Sol（max）から Claude Opus 5.5（high）に入れ替わった。** Sol は 1381 の 3位。WebDev の 1位（Fable 5.2 xHigh）、Website の 1位（Muse Wonder max）、UI Component の 1位（Astra xhigh）は変わらず、推奨表のセルは据え置き。
-2. **Gemini 4 Hydrogen は WebDev が暫定 10位のままなので、推奨表には入れていない。** pstack の既定割り当ては前号と同じ。hardest tasks を Fable 5.2（xhigh）にする案は、slug を今回の Task 一覧で確認したうえで提案にとどめた。
-3. ニュース（11/7〜11/14）: Qwen4-Max プレビュー、Haru 4B、ChatGPT Wallet、Claude Meetings、Gemini Robotics 2.5。前号の Fable / Carbon / Ember / Hydrogen は繰り返さない。
+1. **WebDev（11/20）の 1位は Fable 5.2（xHigh、1824）のまま。** コーディングのフラッグシップ 3位を GPT-6 Astra から Sonnet 5.5（xHigh、1772）に替え、コスパの Sol を GPT-6.2 Sol（Max、1754）にした。文章の Fable は、RLI の公開値が High なので xHigh から High に下げ、3位を GPT-6.2 Astra（Max）にした。
+2. **複雑なコーディングのコスパ先頭に Gemini 4 Neon（High、$3/$15、FrontierCode 46.2%）を入れた。** Carbon の導入価格は 11/30 まで $2/$10。pstack の技能既定は、large で実装役が Opus 5.5（xhigh-fast）、arena に Fable（high）と Neon（xhigh）。設定は変えていない。
+3. ニュース（11/14〜11/21）: GPT-6.2 Astra / Sol、Gemini 4 Neon、Qwen4-Max 正式版、Microsoft の MAI 7モデル。デザインの 3枠（Fable / Astra xhigh / Wonder）は 1位が分かれたまま。
 
 ## 月次サマリー（新しい順）
 - [2026-10](reports/2026/2026-10-summary.md)
 
 ## 最新号
-- [2026-11-14](reports/2026/2026-11-14.md)
+- [2026-11-21](reports/2026/2026-11-21.md)
 
 ## アーカイブ（新しい順）
+- [2026-11-21](reports/2026/2026-11-21.md)
 - [2026-11-14](reports/2026/2026-11-14.md)
 - [2026-11-07](reports/2026/2026-11-07.md)
 - [2026-10-31](reports/2026/2026-10-31.md)
