@@ -15,3 +15,7 @@
 ## 2026-11-01
 - 指摘: Takashi の指示で、作業別モデル比較に「デザイン」（UI・LP・図解などの見た目の制作）を追加する。根拠は WebDev Arena（https://arena.ai/leaderboard/code/webdev）と Design Arena（https://www.designarena.ai/leaderboard）などの公開リーダーボードとし、順位が分かれるときは併記する。画像生成の品質を比べる公開データがなければその旨を書く。
   - 反映: agents-playground の `skills/weekly-ai-survey-report/SKILL.md` に反映する。次回（2026-11-07）の週次から適用する。
+
+## 2026-11-21
+- 指摘: pstack のセクションは次回から削除してほしい。AI 駆動開発のトレンド（ハーネスやガードレールに有効なツールや言語。例: XState、Effect、Bend）を追加してほしい。ドキュメントやコード、AI の出力の理解を支援するツール（例: https://github.com/fkubota/understand-mode）が話題なら収集してほしい。
+  - 反映: weekly-ai-survey-report スキルの「B. pstack での割り当て状況」を削除し、「B. AI 駆動開発のトレンド」（小見出し: ハーネス・ガードレール / 理解の支援）を新設。月次サマリーの pstack 項目も AI 駆動開発トレンドのまとめに置き換え。2026-11-28 号から反映。
